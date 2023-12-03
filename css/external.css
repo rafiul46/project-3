@@ -1,0 +1,80 @@
+body{
+
+height: 0;
+width: 0;
+
+}
+
+.square{
+
+    height: 200px;
+    width: 200px;
+    background-color: blue;
+
+}
+
+.rectanale{
+
+
+    height: 150px;
+    width: 300px;
+    background-color: chartreuse;
+
+}
+
+.circle{
+
+    height: 200px; 
+    width: 200px;
+    background-color: darkmagenta;
+    border-radius: 50%;
+
+}
+
+.triangle-up{
+
+    height: 0;
+    width: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid orange;
+
+}
+
+.triangle-down{
+
+    height: 0;
+    width: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-top: 100px solid springgreen;
+
+}
+
+.triangle-left{
+
+    height: 0;
+    width: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-right: 100px solid yellow;
+
+}
+
+.triangle-right{
+
+    height: 0;
+    width: 0;
+    border-top: 50px solid transparent;
+    border-bottom: 50px solid transparent;
+    border-left: 100px solid green;
+
+}
+
+.triangle{
+
+    height: 0;
+    width: 0;
+    
+
+}
